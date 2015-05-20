@@ -1,0 +1,14 @@
+{
+  "name": "node-expressrest",
+  "version": "1.0.0",
+  "description": "A bare node restful api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dale Corns",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
